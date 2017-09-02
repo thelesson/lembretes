@@ -2,6 +2,7 @@
 ...
 
 ##site prático com conceitos do git:  http://rogerdudler.github.io/git-guide/index.pt_BR.html
+:https://gist.github.com/leocomelli/2545add34e4fec21ec16
 
 ##Git//GitHub
 
