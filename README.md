@@ -1,6 +1,8 @@
 # Lembretes para uso diário
 ...
 
+##site prático com conceitos do git:  http://rogerdudler.github.io/git-guide/index.pt_BR.html
+
 ##Git//GitHub
 
 ### Criar novo repositório
