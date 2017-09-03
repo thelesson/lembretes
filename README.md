@@ -51,3 +51,22 @@
 ### realiar o merge
 
 	git merge
+	
+
+# Instalar IIS no windows 8, para uso do asp clássico
+
+1°- Ir em painel de controle e acessar "Programas e Recursos(Adicionar e remover programas)"
+
+2° - Clicar em ativar, desativar recursos do windows
+
+3° - Habilitar a caixa de seleção: Serviços e informações da internet
+
+4° - Dentro de Serviços e informações, ir em Serviços da World Wide web
+
+5° - Dentrp de Serviços da World Wide Web, clicar em Recursos de desenvolvimento de aplicativos
+
+6° - Habilitar ASP
+
+7° - Clicar em ok e aguardar a finalização do serviço
+...
+
